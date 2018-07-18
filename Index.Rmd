@@ -1,6 +1,13 @@
 ---
 title: "Sample"
-output: html_document
+author: "Zoe Clarke"
+date: "July 18, 2018"
+output:
+  html_document:
+    theme: sandstone
+    toc: true
+    toc_float: true
+    fig_width: 8
 ---
 
 ### Experimenting with R studio markdown
